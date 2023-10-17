@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../jsbasic"
+		},
+		{
+			"path": "../json_server"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "validation"
+	}
+}
